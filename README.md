@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Figma Design
+
+(https://www.figma.com/design/FmuoAzdKvS7G9dwcfr0pzm/PORTFOLIO-NEXTJS-WEBDEVINDO?node-id=0-1&t=IRQH2zKBh71yOHBO-1)
 
 ## Getting Started
 
