@@ -1,5 +1,5 @@
 import About from '@/components/home/About'
-import Footer from '@/components/home/Footer'
+import Footer from '@/components/Footer'
 import Hero from '@/components/home/Hero'
 import OurService from '@/components/home/OurService'
 import LatestProject from '@/components/home/LatestProject'
