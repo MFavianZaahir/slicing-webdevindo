@@ -1,8 +1,8 @@
-import About from '@/components/home/About'
-import Footer from '@/components/Footer'
-import Hero from '@/components/home/Hero'
-import OurService from '@/components/home/OurService'
-import LatestProject from '@/components/home/LatestProject'
+import About from '@/app/components/home/About'
+import Footer from '@/app/components/Footer'
+import Hero from '@/app/components/home/Hero'
+import OurService from '@/app/components/home/OurService'
+import LatestProject from '@/app/components/home/LatestProject'
 import React from 'react'
 
 const Home = () => {

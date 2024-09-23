@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react'
 import Image from 'next/image'
 import logo from '@/public/logo.svg'
-import { menu } from '../data/menu'
+import { menu } from '../../data/menu'
 import Link from 'next/link'
 import { HiOutlineX, HiMenuAlt3, HiMenu } from 'react-icons/hi'
 import { usePathname } from 'next/navigation'
